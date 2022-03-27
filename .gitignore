@@ -1,3 +1,9 @@
+# MAC stuff bad
+.DS_store
+
+# node modules (used like this if you didn't already use the Node template for creating your gitignore when originally creating the repository on GitHub)
+node_modules/
+
 # Logs
 logs
 *.log
