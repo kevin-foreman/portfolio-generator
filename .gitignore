@@ -1,5 +1,5 @@
 # MAC stuff bad
-.DS_store
+.DS_Store
 
 # node modules (used like this if you didn't already use the Node template for creating your gitignore when originally creating the repository on GitHub)
 node_modules/
