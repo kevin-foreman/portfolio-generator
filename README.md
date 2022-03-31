@@ -14,6 +14,7 @@
 ### Contributors
 ### Tests
 ### Questions
+### Screenshot of an example portfolio
 
 ## Installation
 * Step 1: clone the repository to your local machine
@@ -35,4 +36,7 @@
 
 ## Questions
 * You can contact me with additional questions at kevin.o.foreman2@gmail.com
+
+## Screenshot
+![screenshot](./portfolio-gen-schreensot.png)
 
