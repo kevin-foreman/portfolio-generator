@@ -32,7 +32,8 @@
 * Kevin Foreman
 
 ## Tests
-* Placeholder
+* Tested functionality with inputs from my personal projects in GitHub
+* Example from the test is in the screenshot section
 
 ## Questions
 * You can contact me with additional questions at kevin.o.foreman2@gmail.com
