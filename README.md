@@ -38,5 +38,5 @@
 * You can contact me with additional questions at kevin.o.foreman2@gmail.com
 
 ## Screenshot
-![screenshot](./portfolio-gen-schreensot.png)
+![screenshot](./portfolio-gen-screenshot.png)
 
