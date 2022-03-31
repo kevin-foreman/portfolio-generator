@@ -8,7 +8,7 @@
 * During the production of this project I learned ES6 syntax and operators, as well as Node.js, Node Project Manager modules, and modules built into Node.js
 
 ## Table of Contents
-### Installation instructions: Since this application uses server side functionality, you must initialize NPM, and then install the NPM package known as inquirer
+### Installation
 ### Usage
 ### License
 ### Contributors
@@ -17,10 +17,11 @@
 ### Screenshot of an example portfolio
 
 ## Installation
-* Step 1: clone the repository to your local machine
-* Step 2: from the root directory, in your terminal run "npm init"
-* Step 3: from the root directory, in your terminal run "npm i inquirer"
-* Step 4: run the application from your terminal using "node app.js"
+* Step 1: Since this application uses server side functionality, you must initialize NPM, and then install the NPM package known as inquirer. See further instruction in the following steps
+* Step 2: clone the repository to your local machine
+* Step 3: from the root directory, in your terminal run "npm init"
+* Step 4: from the root directory, in your terminal run "npm i inquirer"
+* Step 5: run the application from your terminal using "node app.js"
 
 ## Usage
 * This application can build a professional portfolio in the form of a dynamically generate html page based on user input
